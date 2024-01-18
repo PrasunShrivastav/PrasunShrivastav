@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrasunShrivastav
 - 👀 I’m interested in Space and technology
-- 🌱 I’m currently learning c++ , stats ,             JavaScript
+- 🌱 I’m currently learning c++ , stats , Java
 - 💞️ I’m looking to collaborate on algorithm development
 - 📫 How to reach me email, github , discord
 
