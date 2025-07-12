@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasunshrivastav&label=Profile%20views&color=0e75b6&style=flat" alt="prasunshrivastav" /> </p>
 
-- 🔭 I’m currently working on [Notes App]([https://github.com/PrasunShrivastav/Basic-Projects](https://github.com/PrasunShrivastav/NotesApp))
+- 🔭 I’m currently working on [Notes App]([https://github.com/PrasunShrivastav/NotesApp])
 
 - 🌱 I’m currently learning **Relational Databases and Machine learning**
 
