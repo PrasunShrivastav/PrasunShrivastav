@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Notes App](https://github.com/PrasunShrivastav/NotesApp)
 
-- 🌱 I’m currently learning **Relational Databases and Machine learning**
+- 🌱 I’m currently learning **Web 3 and Machine learning**
 
-- 💬 Ask me about **How to convert design/ ideas into websites**
+- 💬 Ask me about **How to be awake whole night**
 
 - 📫 How to reach me **shrivastavprasun36@gmail.com**
 
