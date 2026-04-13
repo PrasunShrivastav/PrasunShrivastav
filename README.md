@@ -81,29 +81,23 @@ const prasun = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasunshrivastav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&rank_icon=github" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunshrivastav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff" height="165"/>
+<div align= "center">
+  
+![](https://github-readme-stats.shion.dev/api?username=PrasunShrivastav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=PrasunShrivastav&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrasunShrivastav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasunshrivastav&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasunshrivastav&custom_title=Prasun's%20Contribution%20Graph&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
+### ✍️ Random Dev Quote
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasunshrivastav&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" width="95%"/>
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -116,7 +110,6 @@ const prasun = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrivastavprasun36@gmail.com)
 
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
